@@ -104,11 +104,14 @@ hr{
     color: #858072;
 }
 .course-duration{
-background-color: rgba(141, 40, 40, 0.548);
-border-radius: 20%;
+background-color: #FFE4E8;
+border-radius: 14.69px;
 }
 .fa-clock{
-    color: rgba(141, 40, 40, 0.548);
+    color: #FF4A60;
+}
+.hour{
+    color: #FF4A60;
 }
 /* Media Queries */
 /* Mobile Devices */
